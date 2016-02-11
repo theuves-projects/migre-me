@@ -1,0 +1,9 @@
+{
+    "name": "migre-me",
+    "version": "0.0.0",
+    "description": "Encurtar uma URL no Migre.me.",
+    "main": "index.js",
+    "repository": "theuves/migre-me",
+    "author": "Matheus Alves",
+    "license": "MIT"
+}
