@@ -1,6 +1,6 @@
 {
     "name": "migre-me",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "Encurtar uma URL no Migre.me.",
     "main": "index.js",
     "dependencies": {
