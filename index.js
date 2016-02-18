@@ -16,4 +16,4 @@ module.exports = function (url, cb) {
 
         cb(null, body);
     });
-}
+};
