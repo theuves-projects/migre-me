@@ -4,7 +4,9 @@ var request = require('request');
 
 module.exports = function (url, cb) {
     url = 'http://migre.me/api.json?url=' + url;
-    cb = cb || function () {};
+    cb = cb || function () {
+        return undefined;
+    };
 
     request.get({
         json: true,
