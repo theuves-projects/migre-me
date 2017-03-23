@@ -18,9 +18,7 @@ migreMe("https://github.com/", function (err, data) {
 });
 ```
 
-Se tudo ocorrer bem, `data` será um objeto com informações.
-
-O exemplo acima retornaria algo como:
+O exemplo acima retornará algo como:
 
 ```js
 {
