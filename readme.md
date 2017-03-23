@@ -18,11 +18,10 @@ migreMe("https://github.com/", function (err, data) {
 });
 ```
 
-Se tudo ocorrer bem, o exemplo acima retornará algo como:
+Se não houver erro, o exemplo acima retornará parecido com:
 
 ```js
-{
-  erro: 0,
+{ erro: 0,
   info: 'OK',
   criado_em: '2016-02-11 12:23:47',
   url: 'https://github.com/',
@@ -30,8 +29,7 @@ Se tudo ocorrer bem, o exemplo acima retornará algo como:
   migre: 'http://migre.me/sXgAv',
   ping: 'FAIL',
   consumo_api_hora: 4,
-  tempo: 0.0064628124237061
-}
+  tempo: 0.0064628124237061 }
 ```
 
 ## Licença
