@@ -1,6 +1,6 @@
 # migre-me
 
-> Encurtar URLs no [Migre.me](http://migre.me/).
+> Encurtar URLs no Migre.me.
 
 ## Instalação
 
