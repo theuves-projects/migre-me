@@ -4,7 +4,7 @@
 
 ## Instalação
 
-Instale com `npm install --save migre-me`.
+Instale com `npm install migre-me`.
 
 ## Uso
 
