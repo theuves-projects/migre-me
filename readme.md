@@ -20,7 +20,7 @@ migreMe("https://github.com/", function (err, data) {
 });
 ```
 
-Se não houver erro, o exemplo acima retornará parecido com:
+Se não houver erro, o exemplo acima retornará algo como:
 
 ```js
 { erro: 0,
