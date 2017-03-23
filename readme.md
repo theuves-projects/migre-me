@@ -18,7 +18,7 @@ migreMe("https://github.com/", function (err, data) {
 });
 ```
 
-O exemplo acima retornará algo como:
+Se tudo ocorrer bem, o exemplo acima retornará algo como:
 
 ```js
 {
