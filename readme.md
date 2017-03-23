@@ -2,6 +2,8 @@
 
 > Encurtar URLs no Migre.me.
 
+:warning: Requer internet para funcionar. 
+
 ## Instalação
 
 Instale com `npm install migre-me`.
