@@ -2,23 +2,17 @@
 
 > Encurtar URLs no [Migre.me](http://migre.me/).
 
-## Instalação
-
-Com [NPM](https://npmjs.com/):
-
-```
-$ npm install migre-me
-```
+Instale com `npm i -S migre-me`.
 
 ## Uso
 
 Veja um exemplo:
 
 ```js
-var migreMe = require('migre-me');
+var migreMe = require("migre-me");
 
-migreMe('https://github.com/', function (err, data) {
-    console.log(err || data);
+migreMe("https://github.com/", function (err, data) {
+  console.log(err || data);
 });
 ```
 
@@ -35,7 +29,3 @@ O exemplo acima retornará algo como:
   consumo_api_hora: 4,
   tempo: 0.0064628124237061 }
 ```
-
-## Licença
-
-[MIT](http://theuves.mit-license.org/)
