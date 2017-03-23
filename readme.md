@@ -23,7 +23,8 @@ Se tudo ocorrer bem, `data` será um objeto com informações.
 O exemplo acima retornaria algo como:
 
 ```js
-{ erro: 0,
+{
+  erro: 0,
   info: 'OK',
   criado_em: '2016-02-11 12:23:47',
   url: 'https://github.com/',
@@ -31,7 +32,8 @@ O exemplo acima retornaria algo como:
   migre: 'http://migre.me/sXgAv',
   ping: 'FAIL',
   consumo_api_hora: 4,
-  tempo: 0.0064628124237061 }
+  tempo: 0.0064628124237061
+}
 ```
 
 ## Licença
